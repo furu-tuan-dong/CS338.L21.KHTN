@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/vfa/opt/anaconda3/envs/studying/bin/python",
+    "python.terminal.activateEnvironment": false,
+    "jupyter.jupyterServerType": "local"
+}
